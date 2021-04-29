@@ -1,0 +1,24 @@
+.clear{
+    clear: both;
+  }
+  
+  .formcolor {
+    color: aliceblue;
+    background-color: black;
+  }
+  
+  .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .carousel {
+    background-color: rgb(223, 199, 228);
+  }
+  
+  .carouseleffect:focus {
+    color: teal;
+  }

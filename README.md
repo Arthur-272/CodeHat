@@ -23,4 +23,5 @@ Steps to run the application -
 2) Navigate to frontend folder and run the below commands
     - npm install
     - npm start
-Note - Make sure you have java and nodejs installed at your end and port number 8080 and 3000 are open and not used by any other service.
+
+(Note - Make sure you have java and nodejs installed at your end and port number 8080 and 3000 are open and not used by any other service.)

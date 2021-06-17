@@ -17,3 +17,10 @@ Features -
 4) Assign problems and assignments.
 5) Monitor student progress
 6) Leaderboard for encouraging competitive learning.
+
+Steps to run the application -
+1) Navigate into the backend folder and run the Application.java class in src/main/java/com/example/demo/Application.java
+2) Navigate to frontend folder and run the below commands
+    - npm install
+    - npm start
+Note - Make sure you have java and nodejs installed at your end and port number 8080 and 3000 are open and not used by any other service.

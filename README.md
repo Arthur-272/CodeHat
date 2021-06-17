@@ -4,7 +4,7 @@ CHARUSAT CODEHAT
 3) A platform to develop competitiveness along with efficient practical learning. 
 4) Communication between backend and frontend is establishes through REST APIs.
 
-Tech tack used -
+Tech stack used -
 1) Spring Boot - Backend
 2) React JS - Frontend
 3) JUNIT - Testing framework
